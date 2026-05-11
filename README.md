@@ -1,5 +1,5 @@
 # Stringer-FullDeobf-Runnable
-stringer 9 fully deobf + runnable on phone 😭😭 ft. termux
+stringer 9 fully deobf on a phone + runnable😭😭 ft. termux
 
 [![Image from Gyazo](https://i.gyazo.com/7104103ce9bc1c2bb6348c1f0e6e5f03.jpg)](https://gyazo.com/7104103ce9bc1c2bb6348c1f0e6e5f03)
 
